@@ -1,0 +1,12 @@
+.postList{
+    background-color: blue;
+    width: 48%;
+    margin: 10px;
+    max-height: 400px;
+    overflow:scroll;
+
+}
+.post{
+    background-color: #61dafb;
+    margin: 10px;
+}

@@ -1,0 +1,15 @@
+.App{
+    display: flex;
+    flex-wrap: wrap;
+}
+.userList{
+    background-color: red;
+    width: 48%;
+    margin: 10px;
+    max-height: 400px;
+    overflow:scroll;
+}
+.user{
+    margin: 10px;
+    background-color: yellow;
+}

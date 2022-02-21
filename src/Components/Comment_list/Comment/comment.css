@@ -1,0 +1,10 @@
+.commentList{
+    background-color: rebeccapurple;
+    margin: 10px;
+    max-height: 400px;
+    overflow:scroll;
+}
+.comment{
+    margin: 10px;
+    background-color: aqua;
+}
