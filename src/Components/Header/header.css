@@ -1,0 +1,8 @@
+.header{
+    background-color: #61dafb;
+}
+.header a{
+    font-family: Arial;
+    text-decoration: none;
+    margin: 25px;
+}
