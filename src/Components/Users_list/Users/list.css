@@ -1,0 +1,19 @@
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rebeccapurple;
+    justify-content: center;
+}
+
+.users {
+    width: 49%;
+    overflow: scroll;
+    max-height: 400px;
+    background-color: #61dafb;
+}
+
+.userInfo {
+    width: 49%;
+    max-height: 400px;
+    background-color: fuchsia;
+}
